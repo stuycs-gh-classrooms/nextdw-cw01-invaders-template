@@ -59,7 +59,7 @@ void setup() {
 
   /* PART 0
     Set topX and topY so that the "spaceship"
-    circle starts fully visible at the top right
+    circle starts fully visible at the top left
     corner of the screen.
   */
   topX = 0;
